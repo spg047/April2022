@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test1">
+     <parameter name= "Username" value="prakash.giri30669@gmail.com"/>
+     <parameter name= "Password" value="GIRi@123"/>
+    <classes>
+      <class name="TestngDemo.ParameterDemo3"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test2">
+     <parameter name= "Username" value="9960250704"/>
+     <parameter name= "Password" value="Giri@123"/>
+    <classes>
+      <class name="TestngDemo.ParameterDemo3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
