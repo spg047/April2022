@@ -15,7 +15,7 @@ public class FirstTest
   {
 	System.setProperty("webdriver.chrome.driver", "C:\\Users\\Dell\\eclipse-workspace\\selenium_April_22\\Binary\\chromedriver.exe");
 	driver = new ChromeDriver();
-	driver.get("https://www.facebook.com/");
+	driver.get("https://www.google.com/");
 	driver.manage().window().maximize();
 		
   }
